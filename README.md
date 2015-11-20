@@ -19,4 +19,4 @@ Project log on https://hackaday.io/project/8418-magnetic-incremental-rotary-enco
 
 Included are.stl and .step files for the case, and .sch and .brd for the PCB.
 
-The PCB is double sided and measures 20 x 20 mm. It could be home etched or manufactured using some low cost prototyping service. The case is designed to be milled, 3D printed or laser cut (the top part).
+The PCB is double sided and measures 20 x 20 mm. It could be home etched or manufactured using some low cost prototyping service. The case is designed to be milled, 3D printed or laser cut (the top part). A 3mm or 1/8 tap is also needed for threading two holes on the case cover.
