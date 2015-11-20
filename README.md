@@ -15,4 +15,4 @@ This project aims to provide a compact, easy to use, relatively high resolution 
 
 Project log on https://hackaday.io/project/8418-magnetic-incremental-rotary-encoder
 
-![assembled.jpg](Pictures/assembled.jpg)
+![assembled.jpg](Magnetic-Incremental-Rotary-Encoder/Pictures/assembled.jpg)
