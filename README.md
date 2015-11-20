@@ -16,3 +16,7 @@ This project aims to provide a compact, easy to use, relatively high resolution 
 Project log on https://hackaday.io/project/8418-magnetic-incremental-rotary-encoder
 
 ![assembled](Pictures/assembled.JPG)
+
+Included are.stl and .step files for the case, and .sch and .brd for the PCB.
+
+The PCB is double sided and measures 20 x 20 mm. It could be home etched or manufactured using some low cost prototyping service. The case is designed to be milled, 3D printed or laser cut (the top part).
